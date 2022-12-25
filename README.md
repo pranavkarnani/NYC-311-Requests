@@ -1,6 +1,6 @@
 # NYC-311-Requests
 
-##Steps to run: <br>
+## Steps to run: <br>
 
 1. Clone the repository / Download as zip
 2. Place the datasets inside the project directory (311-2016-2018.csv and weather_NY_2010_2018Nov.csv)
