@@ -7,11 +7,8 @@
 3. Run the Jupyter notebooks in the following sequence: <br>
   3.1 P72-EDA + Data Engineering.ipynb (Feature Engineering + Data Wrangling) <br>
   3.2 P72-weather_impact.ipynb (A/B Test) <br>
-  3.3 P72-311-weekly.ipynb (Data Wrangling Part 2) <br>
-  3.4 P72-daily-freq-predictions.ipynb (Modeling Approach 1) <br>
-  3.5 P72-daily-freq-borough-predictions.ipynb (Modeling Approach 2) <br>
+  3.3 P72-daily-freq-predictions.ipynb (Modeling Approach 1) <br>
+  3.4 P72-daily-freq-borough-predictions.ipynb (Modeling Approach 2) <br>
   
   
  Note: P72-daily-freq-borough-predictions.ipynb contains the best results
-  
- 
